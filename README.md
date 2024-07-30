@@ -15,7 +15,7 @@
 ## Deploy To Koyeb
               
 <a target="/blank" href="https://app.koyeb.com/deploy?type=git&repository=
-  github.com/Anjanparinda/Mrtext-leech-bot&branch=main&name=Anjanparinda" >
+  https://github.com/Repo6798/TxT-DL-Bot&branch=main&name=repo6798" >
   <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy"></a>
 
 ### 🔥 ALL VARIABLES
@@ -36,7 +36,7 @@
 
 ### Deploy To Heroku
 
-<a href="https://heroku.com/deploy?template=https://github.com/oVo-HxBots/TxT-DL-Bot">
+<a href="https://heroku.com/deploy?template=https://github.com/Repo6798/TxT-DL-Bot">
      <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
   </a>
 
